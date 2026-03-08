@@ -12,10 +12,7 @@ export default function RegisterPage() {
           theme: dark,
           variables: {
             colorPrimary: "#6366f1",
-            colorBackground: "#1f2937",
-            colorInputBackground: "#374151",
-            colorInputText: "#f9fafb",
-            colorNeutral: "#6b7280",
+            colorNeutral: "#ffffff",
           },
         }}
       />
